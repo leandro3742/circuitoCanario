@@ -1,0 +1,8 @@
+.buttonFormPlayer{
+    box-shadow: 5px 5px 5px grey;
+    transition: box-shadow 1s;   
+}
+.formulario{
+    background-color: rgba(239, 242, 241, .7);
+    border-radius: 5px;
+}

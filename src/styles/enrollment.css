@@ -1,0 +1,15 @@
+.formularioHeader{
+    background: #4059AD;
+    color: white;
+}
+
+.formulario{
+    opacity: 1;
+    animation-name: formulario;
+    animation-duration: 1s;
+}
+  
+@keyframes formulario {
+    from {opacity: .5;}
+    to {opacity: 1;}
+}
